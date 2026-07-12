@@ -108,7 +108,7 @@ const tipoLabel = tipo === "consulenza" ? `Consulenza Beauty - ${formData.tratta
 const messaggioTesto = 
   `Richiesta di prenotazione!\n\n` +
   `Dati della prenotazione:\n` +
-  `Tipo: ${tipoLabel}\n` +
+  `${tipoLabel}\n` +
   `Nome: ${formData.nome}\n` +
   `Telefono: ${formData.telefono}\n` +
   `Data: ${formData.data}\n` +
