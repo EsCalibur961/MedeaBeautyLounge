@@ -114,7 +114,6 @@ function ConfirmModal({ data, onClose }) {
           </p>
           <div style={{ display: "grid", gap: "10px" }}>
             <div style={{ display: "flex", justifyContent: "space-between" }}>
-              <span style={{ fontSize: "14px", color: "#6d5e57" }}>Tipo:</span>
               <span style={{ fontSize: "14px", color: "#1d1716", fontWeight: "800" }}>{data.tipoLabel}</span>
             </div>
             <div style={{ display: "flex", justifyContent: "space-between" }}>
