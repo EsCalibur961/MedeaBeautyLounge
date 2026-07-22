@@ -1296,7 +1296,7 @@ function App() {
     </span>
   </div>
 </a>
-            <p style={{ fontSize: "18px" }}>◎ Instagram Medea Beauty</p>
+            <p style={{ fontSize: "18px" }}> Tel. Fisso: 091 6727291 </p>
           </div>
 
           <div
@@ -1545,7 +1545,7 @@ function App() {
           <div>
             <h4 style={{ color: "#736357", marginBottom: "18px" }}>Contatti</h4>
             <p style={{ color: "#e9d7c6" }}>📍 Via Giorgio D'Antiochia,6 - Palermo</p>
-            <p style={{ color: "#e9d7c6" }}>◎ Instagram</p>
+            <p style={{ color: "#e9d7c6" }}> Tel. Fisso: 091 6727291</p>
           </div>
 
           <div>
